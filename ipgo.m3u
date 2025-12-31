@@ -1,0 +1,117 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A21FDIv.png" group-title="IPGO TV",Channel 1
+https://stmv2.painelvideocast.com.br/movies1/movies1/chunklist_w874136933.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MZOHKim.png" group-title="IPGO TV",1980 Channel
+https://stmv1.srvif.com/channel80s/channel80s/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IqN7EU2.png" group-title="IPGO TV",Classique TV
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9TV7Ha9.png" group-title="IPGO TV",Christmas TV
+https://stmv2.painelvideocast.com.br/christmastv/christmastv/chunklist_w704554766.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zuoVcIa.png" group-title="IPGO TV",Gospel Movies
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HYOYoad.png" group-title="IPGO TV", Retrô Cartoon
+https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w728437153.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hsop1CZ.png" group-title="IPGO TV",Mytime Movie Network
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist480p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d5/Cine_Sony_Logo.png" group-title="IPGO TV",Sony One Cinema
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/2000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FJftFf4.png" group-title="IPGO TV",Sony One Emoções
+https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/2000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5GqWl2W.jpeg" group-title="IPGO TV",Runtime TV: Ação
+https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uTimOT6.jpeg" group-title="IPGO TV",Runtime TV: Comédia
+https://run-rc-br.otteravision.com/run/rc_br/rc_br_720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sxvATWt.jpeg" group-title="IPGO TV",Runtime TV: Romance
+https://run-ro-br.otteravision.com/run/ro_br/ro_br_720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z8i54Dz.jpeg" group-title="IPGO TV",Runtime TV: Família
+https://run-rufb.otteravision.com/run/rufb/rufb_720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9SrCZV0.png" group-title="IPGO TV",GLN TV
+https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8?autoplay=true
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZO45D9x.png" group-title="IPGO TV",Grjngo TV
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/2000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HwHB4AP.jpeg" group-title="IPGO TV",Sparky TV: Luz & Amor
+https://candlelightmedia-sparklightlove-3-br.plex.wurl.tv/2000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X6qrbo7.png" group-title="IPGO TV",Central TV
+https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist_w1908324768.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kcyxUfl.png" group-title="IPGO TV",TV Series
+https://stmv2.painelvideocast.com.br/tvseries/tvseries/chunklist_w58313725.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vsqNRaG.png" group-title="IPGO TV",TVC
+https://video01.kshost.com.br:4443/inside2133/inside2133/chunklist_w1632311968.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RDRD7Vd.png" group-title="IPGO TV",Moviesphere Brasil
+https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00353-lionsgatetvfast-moviespherebrazil-plexus/cb7c3e167b766f8a93c2353086f441aad90462815d32873568a000c27cc615088de8f1c9ea19eb687eca62812b53310d0c78ce07de6c19afdf7ba34148254931d288fa73dff6140dabc87e6a6aef2f7904ac754c943a56218ea7495ec5759e51313ec4452e5a3b86b849da23019edf139b0c71c9f28034267c5e5c815d43e5be5eb39cb00b149a35beb41f4f8b2c43f59645c98249bad2815b83168071f9099c93a68bce418586957eac55e1670b00212a9f832f97fba4d7b0eb01b321c2493c7c77d4e1f5dc5c3d9c4e4f2e8095a98c448fdd4a1447fb0d04b4158c47c411876eb800a4e034ddc55154f1204bd2e65a7335a1a5a48fbb0632b226ddb0e8d370758af51b3a3ea1f70d914a4af2d8f86eeae60686bf318ca0665d0bc19f5194d7d5e98ae2d412cc7598809cca4c8557c44d58440f02e39cb4338bb3aeeab36b2d6c49a8885cc787966d316d70b6814bd81c214abae186f20121c36c175ba735970b4524f4653d27a501f0942974c93e52d30a6baf1175a152ecb429c2a2d9ce0f2ffa8b9415b13cb9f542f9de36844170190ebaf9291f62497edbe12f4d1371d14ae9d685b0235a4ebcb99db090130b063f164005c4b7b427d5dd965b7a7ca47f2f6e61086dd76eb04ed00f4e0c2bb370f0a41b7b88036160a68b36534f74d4af958494ddde4ba575b198acd94ed6e4d61755d16ab9f5b55676e942a8691a41c99302/71/848x480_1686360/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hMmCNvS.jpeg" group-title="IPGO TV",Sessão Trash
+https://amg00711-zylo-amg00711c12-plex-us-8636.playouts.now.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6D58jkQ.png" group-title="IPGO TV",FimRise: Séries Gratuítas
+https://d3rciv7av2te5a.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/4641bdf1-7c35-42fa-83df-13fb1352baab/1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7PTTZEt.jpeg" group-title="IPGO TV",Mr. Bean: Live Action
+https://amg00627-banijay-amg00627c48-plex-us-8097.playouts.now.amagi.tv/playlist1080-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3hLLLfw.jpeg" group-title="IPGO TV",Assombrações
+https://d3rciv7av2te5a.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/b25e25ae-f36d-4617-a45f-5dcc8baf4652/5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w2o1auy.png" group-title="IPGO TV",Crime e Investigação
+https://d3rciv7av2te5a.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/d5e95bac-a659-4d76-b225-ee7a00e24aca/5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4dn813u.png" group-title="IPGO TV",Masper TV
+https://tv02.zas.media:1936/masper/masper/chunklist_w1503318025.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FOPAI8U.png" group-title="IPGO TV",RS Play TV
+https://tv03.zas.media:1936/rsplay/rsplay/chunklist_w810399481.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m5BTdLm.png" group-title="IPGO TV",POA Streaming TV
+https://video01.logicahost.com.br/poastreaming/poastreaming/chunklist_w1376904327.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXWs0M4.png" group-title="IPGO TV",TV Minuano
+https://tv02.zas.media:1936/minuano/minuano/chunklist_w1787979500.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qnYxhXg.png" group-title="IPGO TV",TV Loading
+https://stmv1.srvif.com/loadingtv//loadingtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/01NU4DM.png" group-title="IPGO TV",Mr. Bean: Série Animada
+https://amg00627-banijay-amg00627c35-plex-us-4257.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg00627-banijayfast-mrbeanbr-plexus/cb7c3e167b766f8a93c2353086f441aad90462815d32873568a000c27cc615088de8f1c9ea19eb687eca62812b53310d0c78ce07de6c19afdf7ba34148254931d288fa73dff6140dabc87e6a6aef2f7904ac754c943a56218ea7495ec5759e51313ec4452e5a3b86b849da23019edf139b0c71c9f28034267c5e5c815d43e5be5eb39cb00b149a35beb41f4f8b2c43f59643c1d649ba89dd528316807ff3099c93a68bce18868fc77ef802b2665001722cc9d678c2fba4d7b0eb01b321c2493c7c77d4e1f5dc5c3d9c4e4f2e8095a98c448fdd4a1447fb0d04b4158c47c411876eb800a4e034ddc55154f1204bd2e65a7335a1a5a48fbb0632b226ddb0e8d370758af51b3a3ea1f70d914a4af2d8f86eeae60686bf318ca0665d0bc19f5194d7d5e98ae2d412cc7598809cca4c8557c44d58440f02e39cb4338bb3aeeab36b2d6c49a8885cc787966d316d70b6814bd81c214abae186f20121c36c175ba735970b4524f4653d27a501f0942974c93e52d30a6baf1175a152ecb429c2a2d9ce0f2ffa8b9415b13cb9f542f9de36844170190ebaf9291f62497edbe12f4d1371d14ae9d685b0235a4ebcb99db090130b063f164005c4b7b427d5dd965b7a7ca47f2f6e61086dd76eb04ed00f4e0c2bb370f0a41b7b88036160a68b36534f74d4af958494ddde4ba575b196a9d94ecc8ad51755c17fcfed3d2373ccd7628262049985e0/94/848x480_1686360/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l3FntBJ.png" group-title="IPGO TV",TV Brasil
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jcCxcIE.png" group-title="IPGO TV",Canal 29
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dE8l008.png" group-title="IPGO TV",Feliz 7 Play
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YlkRX8A.png" group-title="IPGO TV",Tastemade Brasil
+https://amg00047-tastemade-amg00047c5-plex-us-2273.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00047-tastemadefast-tastemadeportuguesept16intl-plexus/cb7c3e167b766f8a93c2353086f441aad90462815d32873568a000c27cc615088de8f1c9ea19eb687eca62812b53310d0c78ce07de6c19afdf7ba34148254931d288fa73dff6140dabc87e6a6aef2f7904ac754c943a56218ea7495ec5759e51313ec4452e5a3b86b849da23019edf139b0c71c9f28034267c5e5c815d43e5be5eb39cb00b149a35beb41f4f8b2c43f596109fd34ab386805d8316807ff2099c93a68bce4186d2927efb06b2630801262bcfd82b95fba4d7b0eb01b321c2493c7c77d4e1f5dc5c3d9c4e4f2e8095a98c448fdd4a1447fb0d04b4158c47c411876eb800a4e034ddc55154f1204bd2e65a7335a1a5a48fbb0632b226ddb0e8d370758af51b3a3ea1f70d914a4af2d8f86eeae60686bf318ca0665d0bc19f5194d7d5e98ae2d412cc7598809cca4c8557c44d58440f02e39cb4338bb3aeeab36b2d6c49a8885cc787966d316d70b6814bd81c214abae186f20121c36c175ba735970b4524f4653d27a501f0942974c93e52d30a6baf1175a152ecb429c2a2d9ce0f2ffa8b9415b13cb9f542f9de36844170190ebaf9291f62497edbe12f4d1371d14ae9d685b0235a4ebcb99db090130b063f164005c4b7b427d5dd965b7a7ca47f2f6e61086dd76eb04ed00f4e0c2bb370f0a41b7b88036160a68b36534f74d4af958494ddde4ba575b09eaa68cf5ae4bb0b9963002d4854409739d021cbf65994c1300e/171/848x480_1686360/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/an4FQNJ.png" group-title="IPGO TV",Master Chef Brasil
+https://amg00627-banijay-amg00627c9-plex-us-1999.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg00627-banijayfast-masterchefbrazil-plexus/cb7c3e167b766f8a93c2353086f441aad90462815d32873568a000c27cc615088de8f1c9ea19eb687eca62812b53310d0c78ce07de6c19afdf7ba34148254931d288fa73dff6140dabc87e6a6aef2f7904ac754c943a56218ea7495ec5759e51313ec4452e5a3b86b849da23019edf139b0c71c9f28034267c5e5c815d43e5be5eb39cb00b149a35beb41f4f8b2c43f59617ccdd14bd8480098316807ff2099c93a68bce198bd2917eae51e06c085b7779cb852f97fba4d7b0eb01b321c2493c7c77d4e1f5dc5c3d9c4e4f2e8095a98c448fdd4a1447fb0d04b4158c47c411876eb800a4e034ddc55154f1204bd2e65a7335a1a5a48fbb0632b226ddb0e8d370758af51b3a3ea1f70d914a4af2d8f86eeae60686bf318ca0665d0bc19f5194d7d5e98ae2d412cc7598809cca4c8557c44d58440f02e39cb4338bb3aeeab36b2d6c49a8885cc787966d316d70b6814bd81c214abae186f20121c36c175ba735970b4524f4653d27a501f0942974c93e52d30a6baf1175a152ecb429c2a2d9ce0f2ffa8b9415b13cb9f542f9de36844170190ebaf9291f62497edbe12f4d1371d14ae9d685b0235a4ebcb99db090130b063f164005c4b7b427d5dd965b7a7ca47f2f6e61086dd76eb04ed00f4e0c2bb370f0a41b7b88036160a68b36534f74d4af958494ddde4ba575b09ea469cf5aa4ba0b996358bb105fbeaffa774d05bc919256cb56/190/848x480_1686360/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZDJCfx7.png" group-title="IPGO TV",Vintage TV
+https://video01.kshost.com.br:4443/rogerio7271/rogerio7271/chunklist_w277962453.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nDFwJuC.png" group-title="IPGO TV",Vintage Radio TV
+https://5f22d76e220e1.streamlock.net/vintageradiotv/vintageradiotv/chunklist_w1826618748.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b1Yywax.png" group-title="IPGO TV",Z Nation
+https://d3rciv7av2te5a.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/76d94167-4d18-4e7e-9df2-232e4bcf1070/5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RyHDItZ.png" group-title="IPGO TV",Anime TV
+https://stmv2.painelvideocast.com.br/animetv/animetv/chunklist_w2009299085.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TR2obMA.png" group-title="IPGO TV",Desimpedidos
+https://ogc-desi-tcl-roku-syndication.otteravision.com/ogc/desi/desi_480p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l2C3Xo7.png" group-title="IPGO TV",GE TV
+https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/240p-cc/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ht9Q7Vr.png" group-title="IPGO TV",N Sports
+https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gYDufNo.png" group-title="IPGO TV",Cazé TV
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/480p-cc/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bkmqJ5I.png" group-title="IPGO TV",Adrenalina Pura TV
+https://amg00740-sofa-amg00740c7-tcl-us-7126.playouts.now.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bkmqJ5I.png" group-title="IPGO TV",Adrenalina Pura TV Halloween
+https://amg00740-sofa-amg00740c15-tcl-us-8747.playouts.now.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KahO4gv.png" group-title="IPGO TV",Sabor & Arte
+https://amg01391-sbtinfast-amg01391c6-tcl-us-5081.playouts.now.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mBYTqFr.jpeg" group-title="IPGO TV",Receitas Fast
+https://amg00716-globo-amg00716c3-tcl-br-9498.playouts.now.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ubKnwZy.jpeg" group-title="IPGO TV",Malhação Fast
+https://amg00716-globo-amg00716c4-tcl-br-9499.playouts.now.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yp1BuFI.png" group-title="IPGO TV",Now 90s00s
+https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bARAFHz.png" group-title="IPGO TV",Filmelier TV
+https://amg00740-sofa-amg00740c8-tcl-us-7180.playouts.now.amagi.tv/720p-cc/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bARAFHz.png" group-title="IPGO TV",Filmelier TV: Paixão
+https://amg00740-sofa-amg00740c17-tcl-us-8638.playouts.now.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bARAFHz.png" group-title="IPGO TV",Filmelier TV: Esperança
+https://amg00740-sofa-amg00740c13-tcl-us-8730.playouts.now.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bARAFHz.png" group-title="IPGO TV",Filmelier TV: Vida Real
+https://amg00740-sofa-amg00740c16-tcl-us-8738.playouts.now.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GKujTqr.png" group-title="IPGO TV",Xumo TV Filmes
+https://d29h829bjuxghm.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_lgchannels-cdp-publica/00ecae4a-4bd2-4ac7-aa7a-00bcd3c99997/5.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/SBT_News_logo.svg/960px-SBT_News_logo.svg.png" group-title="IPGO TV",SBT News
+https://sbtnews.maissbt.com/3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rusrTp4.png" group-title="IPGO TV",SBT
+https://aovivo.maissbt.com/channel_1080.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sQyG3q2.png" group-title="IPGO TV",New Brasil
+https://amg01391-sbtinfast-amg01391c5-tcl-us-5080.playouts.now.amagi.tv/playlist1080p_an.m3u8
